@@ -16,7 +16,7 @@
     "download_mode": "direct_apk"
   },
   "update_control": {
-    "enabled": false,
+    "enabled": true,
     "latest_version_code": 2,
     "latest_version_name": "2.0",
     "is_mandatory": false,
