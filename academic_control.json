@@ -30,7 +30,7 @@
     "download_mode": "direct_apk"
   },
   "promo_dialog": {
-    "enabled": false,
+    "enabled": true,
     "message_id": "welcome_msg_2026_1",
     "show_frequency": "once",
     "is_mandatory": false,
