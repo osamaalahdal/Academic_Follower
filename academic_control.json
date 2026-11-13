@@ -5,14 +5,14 @@
     "title": "التطبيق متوقف مؤقتاً للصيانة",
     "message": "عذراً أعزائي الطلاب، التطبيق في وضع الصيانة والتحديث حالياً.\nيرجى المحاولة لاحقاً أو التواصل مع الإدارة.",
     "button_text": "💬 تواصل مع الإدارة عبر واتساب",
-    "action_url": "https://wa.me/967770821112"
+    "action_url": "https://wa.me/967774246261"
   },
   "security_check": {
     "verify_package": true,
     "allowed_package": "com.alahdal.academicfollower",
     "tamper_title": "⚠️ تحذير: نسخة غير رسمية أو معدلة!",
     "tamper_message": "تم اكتشاف تعديل غير مصرح به في هذا التطبيق!\nحفاظاً على أمان حسابك الأكاديمي ودرجاتك، يرجى حذف هذه النسخة فوراً وتحميل النسخة الأصلية الرسمية المعتمدة من الإدارة.",
-    "official_download_url": "https://www.mediafire.com/file/YOUR_FILE_ID/AcademicFollower.apk/file",
+    "official_download_url": "https://www.mediafire.com/file/0lp5kumxei1fgst/المتابع+الأكاديمي_2.0.apk/file",
     "download_mode": "direct_apk"
   },
   "update_control": {
@@ -26,7 +26,7 @@
     "changelog": "• تسريع فتح الجداول والتقارير الأكاديمية.\n• دعم حفظ جميع الصفحات والصور بدون إنترنت.\n• إضافة مركز التحكم الشامل وحماية البصمة.",
     "primary_button_text": "📥 تنزيل التحديث مباشرة داخل التطبيق",
     "secondary_button_text": "لاحقاً",
-    "download_url": "https://www.mediafire.com/file/YOUR_FILE_ID/AcademicFollower_v2.apk/file",
+    "download_url": "https://www.mediafire.com/file/0lp5kumxei1fgst/المتابع+الأكاديمي_2.0.apk/file",
     "download_mode": "direct_apk"
   },
   "promo_dialog": {
@@ -38,7 +38,7 @@
     "title": "مرحباً بكم في تطبيق المتابع الأكاديمي",
     "message": "أهلاً بكم في الإصدار الرسمي لتطبيق المتابع الأكاديمي.\nيمكنكم الآن متابعة الدرجات، التقارير، والحضور بكل سهولة وحتى بدون اتصال بالإنترنت.",
     "primary_button_text": "💬 للاشتراك أو الاستفسار تواصل معنا",
-    "action_url": "https://wa.me/967770821112",
+    "action_url": "https://wa.me/967774246261",
     "action_mode": "external_browser",
     "close_button_text": "الدخول إلى التطبيق ✓"
   }
