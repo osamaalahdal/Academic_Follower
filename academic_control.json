@@ -1,6 +1,6 @@
 {
   "app_switch": {
-    "is_app_enabled": true,
+    "is_app_enabled": false,
     "icon": "🛑",
     "title": "التطبيق متوقف مؤقتاً للصيانة",
     "message": "عذراً أعزائي الطلاب، التطبيق في وضع الصيانة والتحديث حالياً.\nيرجى المحاولة لاحقاً أو التواصل مع الإدارة.",
@@ -40,6 +40,6 @@
     "primary_button_text": "💬 للاشتراك أو الاستفسار تواصل معنا",
     "action_url": "https://wa.me/967774246261",
     "action_mode": "external_browser",
-    "close_button_text": "الدخول إلى التطبيق ✓"
+    "close_button_text": "الدخول إلى التطبيق ✓.."
   }
 }
