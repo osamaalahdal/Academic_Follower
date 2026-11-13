@@ -1,6 +1,6 @@
 {
   "app_switch": {
-    "is_app_enabled": false,
+    "is_app_enabled": true,
     "icon": "🛑",
     "title": "التطبيق متوقف مؤقتاً للصيانة",
     "message": "عذراً أعزائي الطلاب، التطبيق في وضع الصيانة والتحديث حالياً.\nيرجى المحاولة لاحقاً أو التواصل مع الإدارة.",
@@ -16,9 +16,9 @@
     "download_mode": "direct_apk"
   },
   "update_control": {
-    "enabled": true,
-    "latest_version_code": 3,
-    "latest_version_name": "3.0",
+    "enabled": false,
+    "latest_version_code": 2,
+    "latest_version_name": "2.0",
     "is_mandatory": true,
     "icon": "🚀",
     "title": "تحديث جديد لتطبيق المتابع الأكاديمي (v2.0)",
@@ -30,7 +30,7 @@
     "download_mode": "direct_apk"
   },
   "promo_dialog": {
-    "enabled": true,
+    "enabled": false,
     "message_id": "welcome_msg_2026_1",
     "show_frequency": "once",
     "is_mandatory": false,
