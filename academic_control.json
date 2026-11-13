@@ -19,7 +19,7 @@
     "enabled": true,
     "latest_version_code": 2,
     "latest_version_name": "2.0",
-    "is_mandatory": false,
+    "is_mandatory": true,
     "icon": "🚀",
     "title": "تحديث جديد لتطبيق المتابع الأكاديمي (v2.0)",
     "message": "أصدرنا تحديثاً جديداً يتضمن تسريع التصفح ودعم كامل للقراءة بدون إنترنت وتحسينات شاملة.",
