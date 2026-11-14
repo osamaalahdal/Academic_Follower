@@ -9,7 +9,7 @@
   },
   "security_check": {
     "verify_package": true,
-    "allowed_package": "com.alahdal.academicfollower",
+    "allowed_package": "com.alahdal.academicfollower2",
     "tamper_title": "⚠️ تحذير: نسخة غير رسمية أو معدلة!",
     "tamper_message": "تم اكتشاف تعديل غير مصرح به في هذا التطبيق!\nحفاظاً على أمان حسابك الأكاديمي ودرجاتك، يرجى حذف هذه النسخة فوراً وتحميل النسخة الأصلية الرسمية المعتمدة من الإدارة.",
     "official_download_url": "https://www.mediafire.com/file/0lp5kumxei1fgst/المتابع+الأكاديمي_2.0.apk/file",
@@ -30,7 +30,7 @@
     "download_mode": "direct_apk"
   },
   "promo_dialog": {
-    "enabled": false,
+    "enabled": true,
     "message_id": "welcome_msg_2026_1",
     "show_frequency": "once",
     "is_mandatory": false,
